@@ -1,0 +1,17 @@
+{
+  "name": "NOTARUG",
+  "symbol": "NOTARUG",
+  "description": "This token is NOT A RUG",
+  "image": "https://i.postimg.cc/xdRPgb47/logo2-(1).jpg",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.postimg.cc/xdRPgb47/logo2-(1).jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
+
