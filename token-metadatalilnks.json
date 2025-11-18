@@ -1,0 +1,22 @@
+{
+  "name": "NOTARUG",
+  "symbol": "NOTARUG",
+  "description": "This token is NOT A RUG",
+  "image": "https://i.postimg.cc/xdRPgb47/logo2-(1).jpg",
+  "extensions": {
+    "website": "https://www.notarug.com",
+    "twitter": "https://twitter.com/notarugtoken",
+    "discord": "https://discord.gg/notarug"
+  },
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.postimg.cc/xdRPgb47/logo2-(1).jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
+
